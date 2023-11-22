@@ -14,7 +14,8 @@ These images were taken from different setup environment using the following rul
 There are **242** across **8** clases.
 
 Class | Type of plant | Part of the plant | Current Plant Condition | Label | Number of labels 
-all          48         699        0.33       0.266       0.213       0.143
+------ | ------ | ------ | ------ | ------ | ------ 
+| ------ | --------- |
 1   | Tomato    | Leaf  | Healthy   | T_L_H     | 100 
 2   | Tomato    | Leaf  | Rugoso    | T_L_R     | 100 
 3   | Tomato    | Steam | Healthy   | T_S_H     | 100 
@@ -23,6 +24,8 @@ all          48         699        0.33       0.266       0.213       0.143
 6   | Tomato    | Flower| Rugoso    | T_Fl_R    | 100 
 7   | Tomato    | Fruit | Healthy   | T_F_H     | 100 
 8   | Tomato    | Fruit | Rugoso    | T_F_R     | 100 
+
+TODO:... all          48         699        0.33       0.266       0.213       0.143
 
 ## Data organization
 
