@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>169_0_00169</filename>
+  <path>data_augmentation/169_0_00169.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>T_F_R</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>39</xmin>
+      <ymin>171</ymin>
+      <xmax>421</xmax>
+      <ymax>494</ymax>
+    </bndbox>
+  </object>
+</annotation>
