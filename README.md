@@ -15,16 +15,15 @@ These images were taken from different setup environment using the following rul
 There are **242** images that included **8** clases.
 
 Class | Type of plant | Part of the plant | Current Plant Condition | Label 
------- | ------ | ------ | ------ | ------ | ------ 
-all | x         | x     | x         | x         | 2052
-1   | Tomato    | Leaf  | Healthy   | T_L_H     | 237
-2   | Tomato    | Leaf  | Rugoso    | T_L_R     | 1434 
-3   | Tomato    | Steam | Healthy   | T_S_H     | 54
-4   | Tomato    | Steam | Rugoso    | T_S_R     | 158 
-5   | Tomato    | Flower| Healthy   | T_Fl_H    | 21 
-6   | Tomato    | Flower| Rugoso    | T_Fl_R    | 18 
-7   | Tomato    | Fruit | Healthy   | T_F_H     | 33 
-8   | Tomato    | Fruit | Rugoso    | T_F_R     | 97 
+------ | ------ | ------ | ------ | ------ | ------     
+1   | Tomato    | Leaf  | Healthy   | T_L_H     
+2   | Tomato    | Leaf  | Rugoso    | T_L_R      
+3   | Tomato    | Steam | Healthy   | T_S_H     
+4   | Tomato    | Steam | Rugoso    | T_S_R      
+5   | Tomato    | Flower| Healthy   | T_Fl_H     
+6   | Tomato    | Flower| Rugoso    | T_Fl_R     
+7   | Tomato    | Fruit | Healthy   | T_F_H      
+8   | Tomato    | Fruit | Rugoso    | T_F_R      
 
 ## Data organization
 
