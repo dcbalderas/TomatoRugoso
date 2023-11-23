@@ -15,7 +15,7 @@ These images were taken from different setup environment using the following rul
 There are **242** images that included **8** clases.
 
 Class | Type of plant | Part of the plant | Current Plant Condition | Label 
------- | ------ | ------ | ------ | ------ | ------     
+------ | ------ | ------ | ------ | ------     
 1   | Tomato    | Leaf  | Healthy   | T_L_H     
 2   | Tomato    | Leaf  | Rugoso    | T_L_R      
 3   | Tomato    | Steam | Healthy   | T_S_H     
