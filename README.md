@@ -16,14 +16,14 @@ There are **242** images that included **8** clases.
 
 Class | Type of plant | Part of the plant | Current Plant Condition | Label 
 ------ | ------ | ------ | ------ | ------     
-1   | Tomato    | Leaf  | Healthy   | T_L_H     
-2   | Tomato    | Leaf  | Rugoso    | T_L_R      
-3   | Tomato    | Steam | Healthy   | T_S_H     
-4   | Tomato    | Steam | Rugoso    | T_S_R      
-5   | Tomato    | Flower| Healthy   | T_Fl_H     
-6   | Tomato    | Flower| Rugoso    | T_Fl_R     
-7   | Tomato    | Fruit | Healthy   | T_F_H      
-8   | Tomato    | Fruit | Rugoso    | T_F_R      
+0   | Tomato    | Leaf  | Healthy   | T_L_H     
+1   | Tomato    | Leaf  | Rugoso    | T_L_R      
+2   | Tomato    | Steam | Healthy   | T_S_H     
+3   | Tomato    | Steam | Rugoso    | T_S_R      
+4   | Tomato    | Flower| Healthy   | T_Fl_H     
+5   | Tomato    | Flower| Rugoso    | T_Fl_R     
+6   | Tomato    | Fruit | Healthy   | T_F_H      
+7   | Tomato    | Fruit | Rugoso    | T_F_R      
 
 ## Data organization
 
